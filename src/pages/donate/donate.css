@@ -1,0 +1,7 @@
+
+.donate__section-image {
+    border-radius: 50%;
+    margin-top: 3rem;
+    margin-left: 5rem;
+    transition: var(--transition);
+}
