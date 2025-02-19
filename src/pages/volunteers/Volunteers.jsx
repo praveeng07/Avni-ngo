@@ -13,8 +13,7 @@ const Volunteers = () => {
   return (
     <>
     <Header title="Our Volunteers" image={HeaderImage}>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis rem distinctio iure iste cumque, dolor laborum asperiores quasi ullam.
-           Sunt inventore officia ex voluptate cum facere aliquid voluptates, explicabo neque.
+   <b> At MyNGO, our volunteers are the driving force behind our impact. They are the changemakers, the problem-solvers, and the passionate individuals who dedicate their time and skills to making a difference. Whether it’s advocating for social justice, participating in environmental clean-ups, educating communities, or supporting humanitarian efforts, our volunteers are at the forefront of every initiative.</b>
     </Header>
     <section className='volunteers'>
       <div className="container volunteers__container">

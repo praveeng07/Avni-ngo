@@ -8,7 +8,7 @@
     box-sizing: border-box;
  }
 
-:root {
+ :root {
     --primary-hue: 210;
     --gray-hue: 240;
     --color-primary: hsl(var(--primary-hue),100%, 50%); /*saturation and lightness */

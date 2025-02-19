@@ -6,10 +6,10 @@ const Mainheader = () => {
     <div className='container main__header-container'>
       <div className='main__header-left'>
         <h4>#Itstimetomakechange</h4>
-        <h1>Join The Revolution</h1>
+        <h1>Join the Revolution: Empower Change with AvniNGO</h1>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum pariatur ab inventore sequi minima optio quibusdam dolore reiciendis doloremque, placeat ducimus laudantium ipsum quae facere perspiciatis assumenda quod, numquam explicabo?
-        </p>
+        At AvniNGO, we believe in the power of collective action. Our mission is to raise awareness, advocate for justice, and drive meaningful change in communities worldwide. Whether it's protecting the environment, championing human rights, or empowering underprivileged communities, we are committed to making a difference. Join us in shaping a brighter future for all.
+</p>
         <Link to='/blog' className='btn lg'>Get Started</Link>
       </div>
       <div className='main__header-right'>

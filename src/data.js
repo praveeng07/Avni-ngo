@@ -39,29 +39,29 @@ export const programs = [
     {
         id: 1,
         icon: <SiOpenaigym/>,
-        title: "Program One",
-        info: "This is the day that the lord has made. We will rejoice!",
+        title: "Green Earth Initiative",
+        info: "We focus on environmental conservation by promoting sustainable practices, tree planting drives, and eco-friendly awareness campaigns. Our goal is to restore balance to nature and fight climate change.",
         path: "/programs/111"
     },
     {
         id: 2,
         icon: <SiOpenaigym/>,
-        title: "Program Two",
-        info: "This is the day that the lord has made. We will rejoice!",
+        title: "Human Rights Advocacy",
+        info: "We stand for justice, equality, and dignity for all. Through legal aid, education, and awareness programs, we empower marginalized communities to know and defend their rights.",
         path: "/programs/222"
     },
     {
         id: 3,
         icon: <SiOpenaigym/>,
-        title: "Program Three",
-        info: "This is the day that the lord has made. We will rejoice!",
+        title: " Community Development & Welfare",
+        info: "From skill development workshops to healthcare initiatives, we work to uplift disadvantaged communities by providing essential resources and opportunities for growth.",
         path: "/programs/333"
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
-        title: "Program Four",
-        info: "This is the day that the lord has made. We will rejoice!",
+        title: " Policy Advocacy & Social Justice",
+        info: "We engage with policymakers to push for sustainable and inclusive policies that ensure long-term change. Our campaigns amplify the voices of the underrepresented and demand action on pressing social issues.",
         path: "/programs/444"
     }
 ]
@@ -77,26 +77,26 @@ export const values = [
     {
         id: 1,
         icon: <SiOpenaigym/>,
-        title: "Value One",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Sustainability",
+        desc: "We are dedicated to fostering environmental responsibility and sustainable practices in all our initiatives."
     },
     {
         id: 2,
         icon: <SiOpenaigym/>,
-        title: "Value Two",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Equality & Justice",
+        desc: "Every individual deserves equal rights and opportunities. We fight discrimination and champion fairness in all aspects of society."
     },
     {
         id: 3,
         icon: <SiOpenaigym/>,
-        title: "Value Three",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Integrity & Transparency",
+        desc: "Honesty and accountability guide our work, ensuring trust within the communities we serve and our supporters."
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
-        title: "Value Four",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Community Empowerment",
+        desc: "We believe in uplifting communities by equipping them with knowledge, skills, and resources to create lasting change."
     }
 ]
 
@@ -111,33 +111,33 @@ export const values = [
 export const faqs = [
     {
         id: 1,
-        question: "put a question?",
-        answer: "Consectetur adipisicing elit. Non ipsa dolorem, rem consequatur eum omnis ex, fuga temporibus qui nesciunt odio aliquam commodi culpa inventore ut similique repellendus perferendis sint!"
+        question: "What does AvniNGO do?",
+        answer: "AvniNGO works on social justice, environmental sustainability, human rights advocacy, and community welfare to create meaningful change."
     },
     {
         id: 2,
-        question: "put a question?",
-        answer: "Distinctio nihil blanditiis accusantium atque, quo maxime inventore eum! Cum dolorem quibusdam amet et qui. Eos, omnis beatae? Quas, est at! Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit."
+        question: "How can I volunteer with AvniNGO?",
+        answer: "You can contact us on our phone numberor email, attend orientation sessions, and join a project that matches your interests."
     },
     {
         id: 3,
-        question: "Hput a question?",
-        answer: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+        question: "Does AvniNGO accept donations?",
+        answer: "Yes! Donations help us fund our programs and support underprivileged communities. Visit our donation page to contribute"
     },
     {
         id: 4,
-        question: "put a question?",
-        answer: "Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit, consequatur quibusdam dignissimos cum labore possimus placeat consectetur nisi cupiditate? Qui totam est omnis dolor nobis quisquam veritatis a!"
+        question: "Can I collaborate with AvniNGO for a social project?",
+        answer: "Absolutely! We welcome partnerships with individuals, corporations, and organizations committed to positive social impact."
     },
     {
         id: 5,
-        question: "put a question?",
-        answer: "Maiores fuga, cum praesentium esse laudantium! Distinctio nihil blanditiis accusantium atque, quo maxime inventore eum! Cum dolorem quibusdam amet et qui."
+        question: "Where does AvniNGO operate?",
+        answer: "We have active projects near Hubli-Dharwad, focusing on regions where change is most needed."
     },
     {
         id: 6,
-        question: "put a question?",
-        answer: "Quas, est at! Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit, consequatur quibusdam dignissimos cum labore possimus placeat consectetur nisi cupiditate."
+        question: "How can I stay updated on AvniNGO’s activities?",
+        answer: "Follow us on social media and know our events and impact stories."
     }
 ]
 
@@ -151,39 +151,39 @@ export const faqs = [
 export const testimonials = [
     {
         id: 1,
-        name: "Diana Ayi",
-        quote: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
+        name: "Sunil",
+        quote: "Joining AvniNGO has been life-changing. Seeing firsthand the impact of our initiatives in marginalized communities has been inspiring!",
         job: "Student",
         avatar: require("./images/avatar1.jpg")
     },
     {
         id: 2,
-        name: "Daniel Vinyo",
-        quote: "Harum quaerat hic consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum this and that odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
+        name: "Nagaveni",
+        quote: "Volunteering with AvniNGO helped me connect with passionate people who truly care about making the world a better place!",
         job: "Software Egineer",
         avatar: require("./images/avatar2.jpg")
     },
     {
         id: 3,
-        name: "Edem Quist",
-        quote: "Quaerat hic praesentium consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
+        name: "Pooja",
+        quote: "I was deeply moved by AvniNGO’s dedication to social justice. Their advocacy programs truly make a difference in the lives of those who need it the most. Being part of this movement has been the most fulfilling experience of my life!",
         job: "University Lecturer",
         avatar: require("./images/avatar3.jpg")
     },
-    {
-        id: 4,
-        name: "Grace Lavoe",
-        quote: "Cupiditate deleniti sint consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
-        job: "Talking Parrot",
-        avatar: require("./images/avatar4.jpg")
-    },
-    {
-        id: 5,
-        name: "Nana Yaa Dankwa",
-        quote: "Maxime minima cumque sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
-        job: "Pharmacist",
-        avatar: require("./images/avatar5.jpg")
-    }
+    // {
+    //     id: 4,
+    //     name: "Grace Lavoe",
+    //     quote: "Cupiditate deleniti sint consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
+    //     job: "Talking Parrot",
+    //     avatar: require("./images/avatar4.jpg")
+    // },
+    // {
+    //     id: 5,
+    //     name: "Nana Yaa Dankwa",
+    //     quote: "Maxime minima cumque sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
+    //     job: "Pharmacist",
+    //     avatar: require("./images/avatar5.jpg")
+    // }
 ]
 
 
