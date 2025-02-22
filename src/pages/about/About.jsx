@@ -19,7 +19,7 @@ With a strong network of passionate changemakers, dedicated volunteers, and comm
     <section className='about__story'>
       <div className="container about__story-container">
         <div className="about__section-image">
-          <img src={StoryImage} alt='Our Story Image'/>
+          <img src={StoryImage} alt='Our Story pic'/>
         </div>
         <div className="about__section-content">
           <h1>Our Story</h1>
@@ -46,7 +46,7 @@ With a strong network of passionate changemakers, dedicated volunteers, and comm
         </div>
            
         <div className="about__section-image">
-          <img src={VisionImage} alt='Our Vision Image'/>
+          <img src={VisionImage} alt='Our Vision pic'/>
         </div>
       </div>
 
@@ -55,7 +55,7 @@ With a strong network of passionate changemakers, dedicated volunteers, and comm
     <section className='about__mission'>
       <div className="container about__mission-container">
         <div className="about__section-image">
-          <img src={MissionImage} alt='Our Mission Image'/>
+          <img src={MissionImage} alt='Our Mission pic'/>
         </div>
         <div className="about__section-content">
           <h1>Our Story</h1>

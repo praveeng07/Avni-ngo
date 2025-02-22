@@ -1,6 +1,5 @@
 import Header from "../../components/Header"
 import HeaderImage from '../../images/header_bg_4.jpg'
-import DonateImage from'../../images/DonateImage.jpg'
 import './donate.css'
 
 

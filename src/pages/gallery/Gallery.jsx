@@ -23,7 +23,7 @@ const Gallery = () => {
         {
           images.map((image, index) => {
             return <article key={index}>
-              <img src={image} alt={`Gallery Image ${index + 1}`}/>
+              <img src={image} alt={`Gallery pic ${index + 1}`}/>
             </article>
           })
         }
