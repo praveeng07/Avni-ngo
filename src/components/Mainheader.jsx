@@ -10,7 +10,7 @@ const Mainheader = () => {
         <p>
         At AvniNGO, we believe in the power of collective action. Our mission is to raise awareness, advocate for justice, and drive meaningful change in communities worldwide. Whether it's protecting the environment, championing human rights, or empowering underprivileged communities, we are committed to making a difference. Join us in shaping a brighter future for all.
 </p>
-        <Link to='/blog' className='btn lg'>Get Started</Link>
+        <Link to='/about' className='btn lg'>Get Started</Link>
       </div>
       <div className='main__header-right'>
         <div className="main__header-circle"></div>

@@ -151,24 +151,24 @@ export const faqs = [
 export const testimonials = [
     {
         id: 1,
-        name: "Sunil",
+        name: "Guru",
         quote: "Joining AvniNGO has been life-changing. Seeing firsthand the impact of our initiatives in marginalized communities has been inspiring!",
         job: "Student",
-        avatar: require("./images/avatar1.jpg")
+        avatar: require("./images/Volunteers/Guru.webp")
     },
     {
         id: 2,
         name: "Nagaveni",
         quote: "Volunteering with AvniNGO helped me connect with passionate people who truly care about making the world a better place!",
-        job: "Software Egineer",
-        avatar: require("./images/avatar2.jpg")
+        job: "Student",
+        avatar: require("./images/Volunteers/Nagaveni.webp")
     },
     {
         id: 3,
         name: "Pooja",
         quote: "I was deeply moved by AvniNGO’s dedication to social justice. Their advocacy programs truly make a difference in the lives of those who need it the most. Being part of this movement has been the most fulfilling experience of my life!",
-        job: "University Lecturer",
-        avatar: require("./images/avatar3.jpg")
+        job: "Student",
+        avatar: require("./images/Volunteers/Pooja.webp")
     },
     // {
     //     id: 4,
@@ -188,55 +188,62 @@ export const testimonials = [
 
 
 
-const volunteer1 = require('./images/trainer1.jpg')
-const volunteer2 = require('./images/trainer2.jpg')
-const volunteer3 = require('./images/trainer3.jpg')
-const volunteer4 = require('./images/trainer4.jpg')
-const volunteer5 = require('./images/trainer5.jpg')
-const volunteer6 = require('./images/trainer6.jpg')
-
+const volunteer1 = require('./images/Volunteers/Revanth.webp')
+const volunteer2 = require('./images/Volunteers/Madhu.webp')
+const volunteer3 = require('./images/Volunteers/Rahul.webp')
+const volunteer4 = require('./images/Volunteers/Anil.webp')
+const volunteer5 = require('./images/Volunteers/Basu.webp')
+const volunteer6 = require('./images/Volunteers/Namratha.webp')
+const volunteer7 = require('./images/Volunteers/Priyanka.webp')
 
 export const volunteers = [
     {
         id: 1,
         image: volunteer1,
-        name: 'John Doe',
-        job: 'Aerobic Trainer',
-        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
+        name: 'Revanth Jyoti',
+        job: 'Chair Person',
+        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/',  'https://wa.me/+918762469946' ]
     },
     {
         id: 2,
         image: volunteer2,
-        name: 'Daniel vinyo',
-        job: 'Speed Trainer',
+        name: 'Madhu Bharade',
+        job: 'Vice Chair',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 3,
         image: volunteer3,
-        name: 'Edem Quist',
-        job: 'Flexibility Trainer',
-        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
+        name: 'Rahul Nayak',
+        job: 'Secretary',
+        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/', 'https://wa.me/+918310534072']
     },
     {
         id: 4,
         image: volunteer4,
-        name: 'Shatta Wale',
-        job: 'Body Composition Trainer',
+        name: 'Anil Menasinakayi',
+        job: 'Associate Secretary',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 5,
         image: volunteer5,
-        name: 'Diana Ayi',
-        job: 'Circuit Trainer',
+        name: 'Basavaraj Hampannavar',
+        job: 'Treasurer',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 6,
         image: volunteer6,
-        name: 'Wayne Carter',
-        job: 'Physical Intelligence Trainer',
+        name: 'Namratha Hemannavar',
+        job: 'Member',
+        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
+    },
+    {
+        id: 7,
+        image: volunteer7,
+        name: 'Priyanka Borannavar',
+        job: 'Member',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     }
 ]

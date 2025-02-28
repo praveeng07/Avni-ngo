@@ -1,8 +1,9 @@
 import {Link} from 'react-router-dom'
 import Logo from '../images/logo.jpg'
-import { FaLinkedin } from 'react-icons/fa'
-import { FaFacebookF } from 'react-icons/fa'
-import { AiOutlineTwitter } from 'react-icons/ai'
+// import { FaLinkedin } from 'react-icons/fa'
+// import { FaFacebookF } from 'react-icons/fa'
+import { IoLogoWhatsapp } from 'react-icons/io'   // WhatsApp icon
+// import { AiOutlineTwitter } from 'react-icons/ai'
 import { AiFillInstagram } from 'react-icons/ai'
 
 const Footer = () => {
@@ -17,10 +18,11 @@ const Footer = () => {
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta repudiandae exercitationem, numquam quo ab distinctio optio officiis ea quisquam aut eaque molestiae vitae a, vel voluptas quae esse dolorem cum.
             </p>
             <div className="footer__socials">
-                <a href='https://linkedin.com/' target='__blank' rel='nonreferrer noopener'><FaLinkedin/></a>
-                <a href='https://facebook.com/' target='__blank' rel='nonreferrer noopener'><FaFacebookF/></a>
-                <a href='https://twitter.com/' target='__blank' rel='nonreferrer noopener'><AiOutlineTwitter/></a>
-                <a href='https://instagram.com/' target='__blank' rel='nonreferrer noopener'><AiFillInstagram/></a>
+                {/* <a href='https://linkedin.com/' target='__blank' rel='nonreferrer noopener'><FaLinkedin/></a> */}
+                {/* <a href='https://facebook.com/' target='__blank' rel='nonreferrer noopener'><FaFacebookF/></a> */}
+                {/* <a href='https://twitter.com/' target='__blank' rel='nonreferrer noopener'><AiOutlineTwitter/></a> */}
+                <a href='https://instagram.com/avni_foundation.ngo' target='__blank' rel='nonreferrer noopener'><AiFillInstagram/></a>
+                <a href='https://wa.me/+918762469946' target='__blank' rel='noreferrer noopener'><IoLogoWhatsapp /></a> {/* Added WhatsApp */}
             </div>
            </article>
            <article>
