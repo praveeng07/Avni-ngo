@@ -15,8 +15,7 @@ const Footer = () => {
                 <img src={Logo} alt='Footer Logo'/>
             </Link>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta repudiandae exercitationem, numquam quo ab distinctio optio officiis ea quisquam aut eaque molestiae vitae a, vel voluptas quae esse dolorem cum.
-            </p>
+            At AvniNGO, we believe in the power of collective action. Our mission is to raise awareness, advocate for justice, and drive meaningful change in communities worldwide.            </p>
             <div className="footer__socials">
                 {/* <a href='https://linkedin.com/' target='__blank' rel='nonreferrer noopener'><FaLinkedin/></a> */}
                 {/* <a href='https://facebook.com/' target='__blank' rel='nonreferrer noopener'><FaFacebookF/></a> */}
